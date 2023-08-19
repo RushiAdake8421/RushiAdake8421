@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Adake</h1>
 <h3 align="center">A passionate frontend developer and Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **Python,HTML,Css**
 
